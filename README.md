@@ -30,12 +30,12 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 _Note: Content will become available sequentially as the time of the session approaches._
 
 - Part 0: Introduction to python
-- Part 1: [Survey Data and the Reliability of Scales]
-- Part 2: [Regressions]
-- Part 3: [Statistical Tests]
-- Part 4: [Regression and Causality]
-- Part 5: [Panel Data]
-- Part 6: [Predictions and Machine Learning]
+- Part 1: Survey Data and the Reliability of Scales
+- Part 2: Regressions
+- Part 3: Statistical Tests
+- Part 4: Regression and Causality
+- Part 5: Panel Data
+- Part 6: Predictions and Machine Learning
 
 ### Literature
 The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
