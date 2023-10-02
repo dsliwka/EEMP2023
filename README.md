@@ -11,7 +11,6 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 - The sessions take place on _Mondays (14:00-17:45)_ and _Tuesdays (09:00-11:45)_ during the first term of the semester.
    	- **Note that the first lecture is in a different room**: 100 Hörsaal V.
 	- Note that we start an hour later on Tuesday than announced on KLIPS.
- 	- Note that the first lecture is in a different room.
 - We will be using Google Colab throughout the course, **including the exam**.
 	- You can find information about this service [here](https://colab.research.google.com/).
 	- Please bring a laptop (or tablet with keyboard) to all sessions because we will be interactively working with python in Google Colab.
