@@ -13,7 +13,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	- Note that we start an hour later on Tuesday than announced on KLIPS.
 - We will be using Google Colab throughout the course, **including the exam**.
 	- You can find information about this service [here](https://colab.research.google.com/).
-	- Please bring a laptop (or tablet with keyboard) to all sessions because we will be interactively working with python in Google Colab.
+	- Please bring a laptop (or tablet with keyboard) to all sessions because we will be interactively working with Python in Google Colab.
 	- Since Google Colab requires an internet connection, please make sure you have a working connection at the university.
 	- Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account to use Colab.
 - **Exam:**
@@ -31,7 +31,9 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 
 _Note: Content will become available sequentially as the time of the session approaches._
 
-- Part 0: Introduction to python
+- Part 0: Introduction to Python
+	- [Notebook](https://colab.research.google.com/drive/1uFpUzPoYjXtBZIbnnJPEdI6rBhXLt_8j?usp=sharing)
+ 	- [Exercises](https://colab.research.google.com/drive/1JjPYDmfAYqczY1Oi5GK1AvKd4UbXx7xp?usp=sharing)
 - Part 1: Survey Data and the Reliability of Scales
 - Part 2: Regressions
 - Part 3: Statistical Tests
