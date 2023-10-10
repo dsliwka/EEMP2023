@@ -35,6 +35,7 @@ _Note: Content will become available sequentially as the time of the session app
 	- [Notebook](https://colab.research.google.com/drive/1uFpUzPoYjXtBZIbnnJPEdI6rBhXLt_8j?usp=sharing)
  	- [Exercises](https://colab.research.google.com/drive/1JjPYDmfAYqczY1Oi5GK1AvKd4UbXx7xp?usp=sharing)
 - Part 1: Survey Data and the Reliability of Scales
+	- [Slides](./Lectures/Eval2023_1.pdf)
 - Part 2: Regressions
 - Part 3: Statistical Tests
 - Part 4: Regression and Causality
