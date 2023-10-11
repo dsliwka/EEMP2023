@@ -34,6 +34,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 0: Introduction to Python
 	- [Notebook](https://colab.research.google.com/drive/1uFpUzPoYjXtBZIbnnJPEdI6rBhXLt_8j?usp=sharing)
  	- [Exercises](https://colab.research.google.com/drive/1JjPYDmfAYqczY1Oi5GK1AvKd4UbXx7xp?usp=sharing)
+  	- [Solutions](https://colab.research.google.com/drive/1JmC_oAxYqsiDz5Y7MUiUIZN1MA85OXIH?usp=sharing)
 - Part 1: Survey Data and the Reliability of Scales
 	- [Slides](./Lectures/Eval2023_1.pdf)
 - Part 2: Regressions
