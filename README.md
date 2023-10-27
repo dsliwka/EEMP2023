@@ -18,7 +18,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	- Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account to use Colab.
 - **Exam:**
   - First Exam: November 21, 2023, 10:00-11:00, location TBA
-  -	Second exam: TBA
+  -	Second exam: March 13, 2024, 10:00-11:00, location TBA
   -	Registration for the exam takes place as usual on KLIPS. If you are a doctoral student and do not have access to the course on KLIPS, please write to kraaij[at]wiso.uni-koeln.de that you want to take the exam.
   -	You will write the exam on your own laptop or tablet, so please bring it. Make sure it is fully charged because there may not be enough power outlets for everybody.
   -	You may only use one screen (laptop or tablet) during the exam. You may not use your phone.
