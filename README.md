@@ -41,7 +41,8 @@ _Note: Content will become available sequentially as the time of the session app
 	- [Slides](./Lectures/Eval2023_2.pdf) (UPDATED Oct, 23)
 - Part 3: Statistical Tests
 	- [Slides](./Lectures/Eval2023_3.pdf) 
-- Part 4: Regression and Causality
+- Part 4: Causality
+	- [Slides](./Lectures/Eval2023_4.pdf) 
 - Part 5: Panel Data
 - Part 6: Predictions and Machine Learning
 
