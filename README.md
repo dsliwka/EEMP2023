@@ -46,6 +46,7 @@ _Note: Content will become available sequentially as the time of the session app
 - Part 5: Panel Data
 	- [Slides](./Lectures/Eval2023_5.pdf) 
 - Part 6: Predictions and Machine Learning
+  	- [Slides](./Lectures/Eval2023_6.pdf) 
 
 ### Literature
 The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
