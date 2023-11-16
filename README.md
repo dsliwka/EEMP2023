@@ -17,7 +17,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	- Since Google Colab requires an internet connection, please make sure you have a working connection at the university.
 	- Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account to use Colab.
 - **Exam:**
-  - First Exam: November 21, 2023, 10:00-11:00, location TBA
+  - First Exam: November 21, 2023, 10:00-11:00, 101 Seminarraum S241 (same room as lecture)
   -	Second exam: March 13, 2024, 10:00-11:00, location TBA
   -	Registration for the exam takes place as usual on KLIPS. If you are a doctoral student and do not have access to the course on KLIPS, please write to kraaij[at]wiso.uni-koeln.de that you want to take the exam.
   -	You will write the exam on your own laptop or tablet, so please bring it. Make sure it is fully charged because there may not be enough power outlets for everybody.
@@ -26,6 +26,9 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
   -	You will access the exam through a link written on the board or screen in the exam room. The link only allows you to view the exam, so before you start working on it, you need to create a copy using "File > Save a copy in Drive" in Colab. You must rename this copy according to the instructions written at the top of the exam.
   -	At the end, you will share your exam with eemp.exams@gmail.com using the "Share" button in Colab.
   -	This [video](https://onedrive.live.com/?authkey=%21AMWOPjDJqEhFU6U&cid=492CFFDBC915BE1A&id=492CFFDBC915BE1A%21137316&parId=492CFFDBC915BE1A%21136598&o=OneUp) is not up to date, but it explains how the exam will work in general.
+  -	Sample exams:
+  	-	[Exam 2019_1](WS1920_EEMP_exam_PT1.ipynb), [Solutions](WS1920_EEMP_exam_PT1_solutions.ipynb)
+  	-	[Exam 2022_1](https://colab.research.google.com/drive/1EkT_IgyzwUkJKn5lvHf3-R0r0eykU9Nr?usp=sharing)	
 
 ### Course Content
 
